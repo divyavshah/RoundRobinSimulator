@@ -1,4 +1,4 @@
-# 🌀 Enhanced Round Robin Scheduling Simulator
+# 🌀 Round Robin Scheduling Simulator
 
 This project is a fully interactive, GUI-based **Round Robin CPU Scheduling Simulator** built using Python and Tkinter. It visually demonstrates how the Round Robin algorithm works in real-time, making it ideal for learning, teaching, and presenting operating system concepts.
 
