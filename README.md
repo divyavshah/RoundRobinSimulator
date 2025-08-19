@@ -45,7 +45,6 @@ This project is a fully interactive, GUI-based **Round Robin CPU Scheduling Simu
 
 To install missing dependencies:
 
-```bash
 pip install tk
 
 ## Screenshots
