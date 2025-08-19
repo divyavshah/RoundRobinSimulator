@@ -27,9 +27,7 @@ This project is a fully interactive, GUI-based **Round Robin CPU Scheduling Simu
 
 - 🎨 **Dark Themed, User-Friendly Interface**  
   Designed for both clarity and aesthetics, with focus on ease of understanding.
-
----
-
+  
 ## 💡 How It Works
 
 1. Enter process names, arrival times, burst times, and a time quantum.
@@ -39,9 +37,7 @@ This project is a fully interactive, GUI-based **Round Robin CPU Scheduling Simu
    - Gantt chart is animated live
    - Statistics and usage charts are updated automatically
 4. Pause or resume anytime. Reset to try different inputs.
-
----
-
+   
 ## 📦 Requirements
 
 - Python 3.6+
@@ -51,3 +47,7 @@ To install missing dependencies:
 
 ```bash
 pip install tk
+
+## Screenshots
+
+![Upload File](rr1.jpg)
